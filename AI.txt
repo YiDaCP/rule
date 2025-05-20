@@ -24,3 +24,4 @@ payload:
   - '+.comfyworkflows.com'
   - '+.openart.ai'
   - '+.tiktok.com'
+  - '+.oraclecloud.com'
