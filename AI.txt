@@ -23,3 +23,4 @@ payload:
   - '+.huggingface.co'
   - '+.comfyworkflows.com'
   - '+.openart.ai'
+  - '+.tiktok.com'
