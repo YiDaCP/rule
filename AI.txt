@@ -25,3 +25,4 @@ payload:
   - '+.openart.ai'
   - '+.tiktok.com'
   - '+.oraclecloud.com'
+  - '+.shareasale.com'
