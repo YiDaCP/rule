@@ -26,3 +26,5 @@ payload:
   - '+.tiktok.com'
   - '+.oraclecloud.com'
   - '+.shareasale.com'
+  - '+.google.com'
+  - '+.analytics.google.com'
