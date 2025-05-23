@@ -28,3 +28,5 @@ payload:
   - '+.shareasale.com'
   - '+.google.com'
   - '+.analytics.google.com'
+  - '+.analytics.fonts.gstatic.com'
+
